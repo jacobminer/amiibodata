@@ -1,0 +1,126 @@
+[{
+	"id":"1",
+	"name":"Mabel",
+	"wave":"1",
+	"availability":"1",
+	"exclusivity":"NONE",
+	"variants":[],
+	"releaseDate":"1447401600000"
+},
+{
+	"id":"2",
+	"name":"K.K. Slider",
+	"wave":"1",
+	"availability":"?",
+	"exclusivity":"NONE",
+	"variants":[],
+	"releaseDate":"1447401600000"
+},
+{
+	"id":"3",
+	"name":"Isabelle",
+	"wave":"1",
+	"availability":"1",
+	"exclusivity":"NONE",
+	"variants":[],
+	"releaseDate":"1447401600000"
+},
+{
+	"id":"4",
+	"name":"Digby",
+	"wave":"1",
+	"availability":"1",
+	"exclusivity":"NONE",
+	"variants":[],
+	"releaseDate":"1447401600000"
+},
+{
+	"id":"5",
+	"name":"Cyrus",
+	"wave":"1",
+	"availability":"?",
+	"exclusivity":"NONE",
+	"variants":[],
+	"releaseDate":"1447401600000"
+},
+{
+	"id":"6",
+	"name":"Tom Nook",
+	"wave":"1",
+	"availability":"1",
+	"exclusivity":"NONE",
+	"variants":[],
+	"releaseDate":"1447401600000"
+},
+{
+	"id":"7",
+	"name":"Reese",
+	"wave":"1",
+	"availability":"?",
+	"exclusivity":"NONE",
+	"variants":[],
+	"releaseDate":"1447401600000"
+},
+{
+	"id":"8",
+	"name":"Blathers",
+	"wave":"2",
+	"availability":"1",
+	"exclusivity":"NONE",
+	"variants":[],
+	"releaseDate":"1453449600000"
+},
+{
+	"id":"9",
+	"name":"Celeste",
+	"wave":"2",
+	"availability":"1",
+	"exclusivity":"NONE",
+	"variants":[],
+	"releaseDate":"1453449600000"
+},
+{
+	"id":"10",
+	"name":"Kicks",
+	"wave":"2",
+	"availability":"1",
+	"exclusivity":"NONE",
+	"variants":[],
+	"releaseDate":"1453449600000"
+},
+{
+	"id":"11",
+	"name":"Resetti",
+	"wave":"2",
+	"availability":"1",
+	"exclusivity":"NONE",
+	"variants":[],
+	"releaseDate":"1453449600000"
+},
+{
+	"id":"12",
+	"name":"Timmy & Tommy",
+	"wave":"3",
+	"availability":"?",
+	"exclusivity":"NONE",
+	"variants":[],
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"13",
+	"name":"Kapp'n",
+	"wave":"3",
+	"availability":"?",
+	"exclusivity":"NONE",
+	"variants":[],
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"14",
+	"name":"Rover",
+	"wave":"3",
+	"availability":"?",
+	"exclusivity":"NONE",
+	"variants":[],
+	"releaseDate":"1458284400000"
+}]

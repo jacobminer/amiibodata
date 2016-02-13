@@ -1,0 +1,32 @@
+[{
+	"id":"1",
+	"name":"Green Yarn Yoshi",
+	"wave":"1",
+	"availability":"1",
+	"exclusivity":"",
+	"releaseDate":"1444978800000"
+},
+{
+	"id":"2",
+	"name":"Pink Yarn Yoshi",
+	"wave":"1",
+	"availability":"1",
+	"exclusivity":"",
+	"releaseDate":"1444978800000"
+},
+{
+	"id":"3",
+	"name":"Light Blue Yarn Yoshi",
+	"wave":"1",
+	"availability":"2",
+	"exclusivity":"",
+	"releaseDate":"1444978800000"
+},
+{
+	"id":"4",
+	"name":"Mega Yarn Yoshi",
+	"wave":"2",
+	"availability":"4",
+	"exclusivity":"TRU",
+	"releaseDate":"1447574400000"
+}]

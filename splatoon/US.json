@@ -1,0 +1,24 @@
+[{
+	"id":"1",
+	"name":"Inkling Girl",
+	"wave":"1",
+	"availability":"2",
+	"exclusivity":"",
+	"releaseDate":"1432882800000"
+},
+{
+	"id":"2",
+	"name":"Inkling Squid",
+	"wave":"1",
+	"availability":"2",
+	"exclusivity":"",
+	"releaseDate":"1432882800000"
+},
+{
+	"id":"3",
+	"name":"Inkling Boy",
+	"wave":"1",
+	"availability":"2",
+	"exclusivity":"",
+	"releaseDate":"1432882800000"
+}]

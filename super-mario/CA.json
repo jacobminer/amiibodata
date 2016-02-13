@@ -1,0 +1,72 @@
+[{
+	"id":"1",
+	"name":"Mario",
+	"wave":"1",
+	"availability":"3",
+	"exclusivity":"",
+	"variants":[],
+	"releaseDate":"1426834800000"
+},
+{
+	"id":"2",
+	"name":"Yoshi",
+	"wave":"1",
+	"availability":"2",
+	"exclusivity":"",
+	"variants":[],
+	"releaseDate":"1426834800000"
+},
+{
+	"id":"3",
+	"name":"Toad",
+	"wave":"1",
+	"availability":"2",
+	"exclusivity":"",
+	"variants":[],
+	"releaseDate":"1426834800000"
+},
+{
+	"id":"4",
+	"name":"Peach",
+	"wave":"1",
+	"availability":"2",
+	"exclusivity":"",
+	"variants":[],
+	"releaseDate":"1426834800000"
+},
+{
+	"id":"5",
+	"name":"Luigi",
+	"wave":"1",
+	"availability":"2",
+	"exclusivity":"",
+	"variants":[],
+	"releaseDate":"1426834800000"
+},
+{
+	"id":"6",
+	"name":"Bowser",
+	"wave":"1",
+	"availability":"2",
+	"exclusivity":"",
+	"variants":[],
+	"releaseDate":"1426834800000"
+},
+{
+	"id":"7",
+	"name":"Mario - Gold Edition",
+	"wave":"1",
+	"availability":"2",
+	"exclusivity":"",
+	"variants":[],
+	"releaseDate":"1426834800000"
+},
+{
+	"id":"8",
+	"name":"Mario - Silver Edition",
+	"wave":"1",
+	"availability":"3",
+	"exclusivity":"",
+	"variants":[],
+	"releaseDate":"1432882800000"
+}]

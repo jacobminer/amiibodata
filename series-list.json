@@ -1,0 +1,54 @@
+[
+	{
+		"name":"Animal Crossing",
+		"url":"animal-crossing"
+	},
+	{
+		"name":"Animal Crossing Cards",
+		"url":"animal-crossing-cards"
+	},
+	{
+		"name":"Super Smash Brothers",
+		"url":"smash-bros"
+	},
+	{
+		"name":"Chibi-Robo",
+		"url":"chibi-robo"
+	},
+	{
+		"name":"Megaman",
+		"url":"megaman"
+	},
+	{
+		"name":"Pokken",
+		"url":"pokken"
+	},
+	{
+		"name":"Shovel Knight",
+		"url":"shovel-knight"
+	},
+	{
+		"name":"Skylanders Superchargers",
+		"url":"skylanders-superchargers"
+	},
+	{
+		"name":"Splatoon",
+		"url":"splatoon"
+	},
+	{
+		"name":"Super Mario",
+		"url":"super-mario"
+	},
+	{
+		"name":"Super Mario 30th Anniversary",
+		"url":"super-mario-anniversary"
+	},
+	{
+		"name":"Twilight Princess",
+		"url":"twilight-princess"
+	},
+	{
+		"name":"Yoshi Woolly World",
+		"url":"yoshi-wooly-world"
+	}
+]

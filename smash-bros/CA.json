@@ -410,18 +410,17 @@
 		"wave":"6",
 		"availability":"?",
 		"exclusivity":"EB",
-		"variants":[
-			{
-				"id":"46b",
-				"name":"R.O.B. Famicom",
-				"wave":"9",
-				"availability":"?",
-				"exclusivity":"",
-				"releaseDate":"1458284400000"
-			}
-		],
+		"variants":[],
 		"releaseDate":"1443164400000"
 	},
+	{
+		"id":"46b",
+		"name":"R.O.B. Famicom",
+		"wave":"9",
+		"availability":"?",
+		"exclusivity":"",
+		"releaseDate":"1458284400000"
+	},	
 	{
 		"id":"47",
 		"name":"Zero Suit Samus",

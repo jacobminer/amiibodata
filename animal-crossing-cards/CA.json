@@ -1405,4 +1405,704 @@
 	"wave":"2",
 	"type":"Normal",
 	"releaseDate":"1453449600000"
+},
+{
+	"id":"201",
+	"name":" Rover",
+	"wave":"3",
+	"type":"Special",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"202",
+	"name":" Blathers",
+	"wave":"3",
+	"type":" Special",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"203",
+	"name":" Tom Nook",
+	"wave":"3",
+	"type":" Special",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"204",
+	"name":" Pelly",
+	"wave":"3",
+	"type":" Special",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"205",
+	"name":" Phyllis",
+	"wave":"3",
+	"type":" Special",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"206",
+	"name":" Pete",
+	"wave":"3",
+	"type":" Special",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"207",
+	"name":" Mabel",
+	"wave":"3",
+	"type":" Special",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"208",
+	"name":" Leif",
+	"wave":"3",
+	"type":" Special",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"209",
+	"name":" Wendell",
+	"wave":"3",
+	"type":" Special",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"210",
+	"name":" Cyrus",
+	"wave":"3",
+	"type":" Special",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"211",
+	"name":" Grams",
+	"wave":"3",
+	"type":" Special",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"212",
+	"name":" Timmy",
+	"wave":"3",
+	"type":" Special",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"213",
+	"name":" Digby",
+	"wave":"3",
+	"type":" Special",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"214",
+	"name":" Don",
+	"wave":"3",
+	"type":" Special",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"215",
+	"name":" Isabelle",
+	"wave":"3",
+	"type":" Special",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"216",
+	"name":" Franklin",
+	"wave":"3",
+	"type":" Special",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"217",
+	"name":" Jingle",
+	"wave":"3",
+	"type":" Special",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"218",
+	"name":" Lily",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"219",
+	"name":" Anchovy",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"220",
+	"name":" Tabby",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"221",
+	"name":" Kody",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"222",
+	"name":" Miranda",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"223",
+	"name":" Del",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"224",
+	"name":" Paula",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"225",
+	"name":" Ken",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"226",
+	"name":" Mitzi",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"227",
+	"name":" Rodeo",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"228",
+	"name":" Bubbles",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"229",
+	"name":" Cousteau",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"230",
+	"name":" Velma",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"231",
+	"name":" Elvis",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"232",
+	"name":" Canberra",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"233",
+	"name":" Colton",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"234",
+	"name":" Marina",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"235",
+	"name":" Spork",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"236",
+	"name":" Freckles",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"237",
+	"name":" Bam",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"238",
+	"name":" Friga",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"239",
+	"name":" Ricky",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"240",
+	"name":" Deirdre",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"241",
+	"name":" Hans",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"242",
+	"name":" Chevre",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"243",
+	"name":" Drago",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"244",
+	"name":" Tangy",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"245",
+	"name":" Mac",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"246",
+	"name":" Eloise",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"247",
+	"name":" Wart Jr.",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"248",
+	"name":" Hazel",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"249",
+	"name":" Beardo",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"250",
+	"name":" Ava",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"251",
+	"name":" Chester",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"252",
+	"name":" Merry",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"253",
+	"name":" Genji",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"254",
+	"name":" Greta",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"255",
+	"name":" Wolfgang",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"256",
+	"name":" Diva",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"257",
+	"name":" Klaus",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"258",
+	"name":" Daisy",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"259",
+	"name":" Stinky",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"260",
+	"name":" Tammi",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"261",
+	"name":" Tucker",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"262",
+	"name":" Blanche",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"263",
+	"name":" Gaston",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"264",
+	"name":" Marshal",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"265",
+	"name":" Gala",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"266",
+	"name":" Joey",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"267",
+	"name":" Pippy",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"268",
+	"name":" Buck",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"269",
+	"name":" Bree",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"270",
+	"name":" Rooney",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"271",
+	"name":" Curlos",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"272",
+	"name":" Skye",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"273",
+	"name":" Moe",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"274",
+	"name":" Flora",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"275",
+	"name":" Hamlet",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"276",
+	"name":" Astrid",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"277",
+	"name":" Monty",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"278",
+	"name":" Dora",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"279",
+	"name":" Biskit",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"280",
+	"name":" Victoria",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"281",
+	"name":" Lyman",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"282",
+	"name":" Violet",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"283",
+	"name":" Frank",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"284",
+	"name":" Chadder",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"285",
+	"name":" Merengue",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"286",
+	"name":" Cube",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"287",
+	"name":" Claudia",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"288",
+	"name":" Curly",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"289",
+	"name":" Boomer",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"290",
+	"name":" Caroline",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"291",
+	"name":" Sparro",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"292",
+	"name":" Baabara",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"293",
+	"name":" Rolf",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"294",
+	"name":" Maple",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"295",
+	"name":" Antonio",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"296",
+	"name":" Soleil",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"297",
+	"name":" Apollo",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"298",
+	"name":" Derwin",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"299",
+	"name":" Francine",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
+},
+{
+	"id":"300",
+	"name":" Chrissy",
+	"wave":"3",
+	"type":" Normal",
+	"releaseDate":"1458284400000"
 }]

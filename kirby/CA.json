@@ -1,0 +1,36 @@
+[{
+	"id":"1",
+	"name":"Kirby",
+	"wave":"0",
+	"availability":"UNRELEASED",
+	"exclusivity":"",
+	"variants":[],
+	"releaseDate":"0"
+},
+{
+	"id":"2",
+	"name":"Waddle Dee",
+	"wave":"0",
+	"availability":"UNRELEASED",
+	"exclusivity":"",
+	"variants":[],
+	"releaseDate":"0"
+},
+{
+	"id":"3",
+	"name":"King Dedede",
+	"wave":"0",
+	"availability":"UNRELEASED",
+	"exclusivity":"",
+	"variants":[],
+	"releaseDate":"0"
+},
+{
+	"id":"4",
+	"name":"Meta Knight",
+	"wave":"0",
+	"availability":"UNRELEASED",
+	"exclusivity":"",
+	"variants":[],
+	"releaseDate":"0"
+}]
